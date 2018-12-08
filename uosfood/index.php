@@ -96,7 +96,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">봄솔레씨네</a></h3>
+                                                <h3><a href="bom.php">봄솔레씨네</a></h3>
                                                 <p>시립대 정문 앞에 있는 브런치 맛집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">
@@ -125,7 +125,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">삶은고기</a></h3>
+                                                <h3><a href="gogi.php">삶은고기</a></h3>
                                                 <p>착한 가격에 1인용 보쌈을 먹을 수 있는 집</p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="4">
@@ -310,7 +310,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">서울뼈구이매운족발</a></h3>
+                                                <h3><a href="seoulbbyu.php">서울뼈구이매운족발</a></h3>
                                                 <p>시립대, 청량리 맛집 이색적인 뼈구이를 즐길 수 있는 집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="4">
@@ -339,7 +339,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">칼리 앤 메리의 부엌</a></h3>
+                                                <h3><a href="kalme.php">칼리 앤 메리의 부엌</a></h3>
                                                 <p>시립대 정문에 위치한 저렴한 가격에 덮밥, 비빔밥을 즐길 수 있는 집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="3">
@@ -397,7 +397,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">마카나이</a></h3>
+                                                <h3><a href="maka.php">마카나이</a></h3>
                                                 <p>시립대, 떡전교에 위치한 일본식 라멘 맛집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">
