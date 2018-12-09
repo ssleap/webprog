@@ -154,7 +154,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">반지하 돈부리</a></h3>
+                                                <h3><a href="banziha.php">반지하 돈부리</a></h3>
                                                 <p>후문 반지하에 위치한 기본에 충실한 돈부리집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="3">
@@ -183,7 +183,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">맘스터치 서울시립대점</a></h3>
+                                                <h3><a href="moms.php">맘스터치 서울시립대점</a></h3>
                                                 <p>치킨패티가 맛있는 햄버거집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="4">
@@ -212,7 +212,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">Ray&Dan</a></h3>
+                                                <h3><a href="ray.php">Ray&Dan</a></h3>
                                                 <p>칵테일도 파는 분위기 좋은 카페</p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">
@@ -241,7 +241,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최석용</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">은하곱창</a></h3>
+                                                <h3><a href="eunhane.php">은하곱창</a></h3>
                                                 <p>전농동 돼지곱창전골 맛집</p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">
@@ -281,7 +281,7 @@
                                                     <a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">19뜯고맛보고</a></h3>
+                                                <h3><a href="19.php">19뜯고맛보고</a></h3>
                                                 <p>초벌구이 삼겹살, 오겹살, 부추를 즐길 수 있는 시립대 대표 고기집   </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">
@@ -368,7 +368,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">독</a></h3>
+                                                <h3><a href="dok.php">독</a></h3>
                                                 <p>시립대, 떡전교 맛집 한입에 먹을 수 있는 조폭불고기를 맛볼 수 있는 집 </p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="4">
@@ -426,7 +426,7 @@
                                                 <div class="listing-avatar"><a href="author-single.html"><img src="images/avatar/1.jpg" alt=""></a>
                                                     <span class="avatar-tooltip">Added By  <strong>최성수</strong></span>
                                                 </div>
-                                                <h3><a href="listing-single.html">삶은고기</a></h3>
+                                                <h3><a href="gogi.php">삶은고기</a></h3>
                                                 <p>시립대 후문에 위치한 저렴하고 맛있는 보쌈집</p>
                                                 <div class="geodir-category-options fl-wrap">
                                                     <div class="listing-rating card-popup-rainingvis" data-starrating2="5">

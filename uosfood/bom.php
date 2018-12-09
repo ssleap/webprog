@@ -124,85 +124,42 @@
                                         </article>
                                         <!-- article end -->       
                                         <span class="section-separator"></span>
-                                        <!-- list-single-main-item -->   
-                                        <div class="list-single-main-item fl-wrap" id="sec4">
-                                            <div class="list-single-main-item-title fl-wrap">
-                                                <h3>Comments -  <span> 3 </span></h3>
-                                            </div>
-                                            <div class="reviews-comments-wrap">
-                                                <!-- reviews-comments-item -->  
-                                                <div class="reviews-comments-item">
-                                                    <div class="review-comments-avatar">
-                                                        <img src="images/avatar/1.jpg" alt=""> 
-                                                    </div>
-                                                    <div class="reviews-comments-item-text">
-                                                        <a href="#" class="new-dashboard-item">Reply</a>
-                                                        <h4><a href="#">Jessie Manrty</a></h4>
-                                                        <div class="clearfix"></div>
-                                                        <p>" Commodo est luctus eget. Proin in nunc laoreet justo volutpat blandit enim. Sem felis, ullamcorper vel aliquam non, varius eget justo. Duis quis nunc tellus sollicitudin mauris. "</p>
-                                                        <span class="reviews-comments-item-date"><i class="fa fa-calendar-check-o"></i>27 May 2018</span>
-                                                    </div>
-                                                </div>
-                                                <!--reviews-comments-item end-->  
-                                                <!-- reviews-comments-item -->  
-                                                <div class="reviews-comments-item reply-comment-item ">
-                                                    <div class="review-comments-avatar">
-                                                        <img src="images/avatar/1.jpg" alt=""> 
-                                                    </div>
-                                                    <div class="reviews-comments-item-text">
-                                                        <a href="#" class="new-dashboard-item">Reply</a>
-                                                        <h4><a href="#">Mark Rose</a></h4>
-                                                        <div class="clearfix"></div>
-                                                        <p>" Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. "</p>
-                                                        <span class="reviews-comments-item-date"><i class="fa fa-calendar-check-o"></i>12 April 2018</span>
-                                                    </div>
-                                                </div>
-                                                <!--reviews-comments-item end--> 
-                                                <!-- reviews-comments-item -->  
-                                                <div class="reviews-comments-item">
-                                                    <div class="review-comments-avatar">
-                                                        <img src="images/avatar/1.jpg" alt=""> 
-                                                    </div>
-                                                    <div class="reviews-comments-item-text">
-                                                        <a href="#" class="new-dashboard-item">Reply</a>
-                                                        <h4><a href="#">Adam Koncy</a></h4>
-                                                        <div class="clearfix"></div>
-                                                        <p>" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc posuere convallis purus non cursus. Cras metus neque, gravida sodales massa ut. "</p>
-                                                        <span class="reviews-comments-item-date"><i class="fa fa-calendar-check-o"></i>03 December 2017</span>
-                                                    </div>
-                                                </div>
-                                                <!--reviews-comments-item end-->                                                                  
-                                            </div>
+                                        <!-- list-single-main-item -->
+                                    <div class="list-single-main-item fl-wrap" id="sec4">
+                                        <div class="list-single-main-item-title fl-wrap">
+                                            <h3>Comments -  <span>  </span></h3>
+                                        
+                                            <!--reviews-comments-item end-->
                                         </div>
-                                        <!-- list-single-main-item end -->   
-                                        <!-- list-single-main-item -->   
-                                        <div class="list-single-main-item fl-wrap" id="sec5">
-                                            <div class="list-single-main-item-title fl-wrap">
-                                                <h3>Add Comment</h3>
-                                            </div>
-                                            <!-- Add Review Box -->
-                                            <div id="add-review" class="add-review-box">
-                                                <!-- Review Comment -->
-                                                <form id="add-comment" class="add-comment custom-form">
-                                                    <fieldset>
-                                                        <div class="row">
-                                                            <div class="col-md-6">
-                                                                <label><i class="fa fa-user-o"></i></label>
-                                                                <input type="text" placeholder="Your Name *" value=""/>
-                                                            </div>
-                                                            <div class="col-md-6">
-                                                                <label><i class="fa fa-envelope-o"></i>  </label>
-                                                                <input type="text" placeholder="Email Address*" value=""/>
-                                                            </div>
+                                    </div>
+                                    <!-- list-single-main-item end -->
+                                    <!-- list-single-main-item -->
+                                    <div class="list-single-main-item fl-wrap" id="sec5">
+                                        <div class="list-single-main-item-title fl-wrap">
+                                            <h3>댓     글</h3>
+                                        </div>
+                                        <!-- Add Review Box -->
+                                        
+                                        <div id="add-review" class="add-review-box">
+                                            <!-- Review Comment -->
+                                            <form action = "create_review.php" id="add-comment" class="add-comment custom-form">
+                                                <fieldset>
+                                                    <div class="row">
+                                                        <div class="col-md-6">
+                                                            <label><i class="fa fa-user-o"></i></label>
+                                                            <input type="text" placeholder="닉네임" value="" />
                                                         </div>
-                                                        <textarea cols="40" rows="3" placeholder="Your Review:"></textarea>
-                                                    </fieldset>
-                                                    <button class="btn  big-btn  color-bg flat-btn">Submit Comment <i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
-                                                </form>
-                                            </div>
-                                            <!-- Add Review Box / End -->
+                                                        
+                                                    </div>
+                                                    <textarea cols="40" rows="3" placeholder="리뷰를 적어주세요 :"></textarea>
+                                                </fieldset>
+                                                <button class="btn  big-btn  color-bg flat-btn">확   인 <i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
+                                            </form>
                                         </div>
-                                        <!-- list-single-main-item end -->                                
+                                       
+                                        <!-- Add Review Box / End -->
+                                    </div>
+                                    <!-- list-single-main-item end -->                              
                                     </div>
                                 </div>
                                 <!--box-widget-wrap -->

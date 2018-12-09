@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html lang="en">
 <head>
     <!--=============== basic  ===============-->
@@ -75,7 +75,7 @@
                                         <div class="list-single-main-media fl-wrap">
                                             <div class="single-slider-wrapper fl-wrap">
                                                 <div class="single-slider fl-wrap">
-                                                    <div class="slick-slide-item"><img src="images/all/뼈구이1.jpg" alt=""></div>
+                                                    <div class="slick-slide-item"><img src="images/all/레이앤단.jpg" alt=""></div>
 
                                                 </div>
 
@@ -83,21 +83,18 @@
                                         </div>
                                         <div class="list-single-main-item fl-wrap">
                                             <div class="list-single-main-item-title fl-wrap">
-                                                <h3>뼈구이와 족발 대표 맛집</h3>
+                                                <h3>.칵테일과 커피를 같이, Ray&Dan.</h3>
                                             </div>
                                             <p>
-                                                뼈구이는 2인분 이상 주문 가능.
+                                                밤에 가면 분위기 보장
                                             </p>
                                             <p>
-                                                뼈구이 매운맛, 안매운맛, 중간맛 선택 가능.
-                                            </p>
-                                            <p>
-                                                매운 맛을 잡아주는 주먹밥과 찰떡궁합
+                                                시험기간에 꽉찬다
                                             </p>
                                             <blockquote>
-                                                <p>대로변에 있어 주차공간 없음. </p>
+                                                <p>무난무난한 가격대 </p>
                                             </blockquote>
-                                            <p>시립대, 청량리 맛집</p>
+                                            <p>눈앞에서 만들어주는 칵테일</p>
 
                                             <div class="post-opt">
                                                 <ul>
@@ -111,14 +108,10 @@
                                                 <h3>Tags</h3>
                                             </div>
                                             <div class="list-single-tags tags-stylwrap blog-tags">
-                                                <a href="#">시립대</a>
-                                                <a href="#">청량리</a>
-                                                <a href="#">회식</a>
-                                                <a href="#">뼈구이</a>
-                                                <a href="#">족발</a>
-                                                <a href="#">소주 안주</a>
-                                                <a href="#">술안주</a>
-                                                <a href="#">떡전교</a>
+                                                <a href="#">시험기간</a>
+                                                <a href="#">분위기갑</a>
+                                                <a href="#">썸녀썸남과</a>
+                                                <a href="#">카페</a>
                                             </div>
                                             <div class="share-holder hid-share">
 
@@ -130,7 +123,6 @@
                                     </article>
                                     <!-- article end -->
                                     <span class="section-separator"></span>
-                                    <!-- list-single-main-item -->
                                     <!-- list-single-main-item -->
                                     <div class="list-single-main-item fl-wrap" id="sec4">
                                         <div class="list-single-main-item-title fl-wrap">
@@ -167,7 +159,6 @@
                                         <!-- Add Review Box / End -->
                                     </div>
                                     <!-- list-single-main-item end -->
-                                    <!-- list-single-main-item end -->
                                 </div>
                             </div>
                             <!--box-widget-wrap -->
@@ -176,7 +167,7 @@
                                     <!--box-widget-item -->
                                     <div class="box-widget-item fl-wrap">
                                         <div class="box-widget-item-header">
-                                            <h3>서울뼈구이매운족발 </h3>
+                                            <h3>Ray & Dan </h3>
                                         </div>
 
                                     </div>
@@ -188,14 +179,14 @@
                                         </div>
                                         <div class="box-widget list-author-widget">
                                             <div class="list-author-widget-header shapes-bg-small  color-bg fl-wrap">
-                                                <span class="list-author-widget-link"><a href="author-single.html">서울뼈구이매운족발</a></span>
-                                                <img src="images/all/뼈구이.jpg" alt="">
+                                                <span class="list-author-widget-link"><a href="author-single.html">Ray&Dan</a></span>
+                                                <img src="images/all/레이앤단.jpg" alt="">
 
                                             </div>
                                             <div class="box-widget-content">
                                                 <div class="list-author-widget-text">
                                                     <div class="list-author-widget-contacts">
-                                                        <p>시립대,청량리 맛집 이색적인 뼈구이를 즐길 수 있는 집</p>
+                                                        <p>칵테일도 파는 분위기 좋은 카페</p>
                                                     </div>
                                                     <div class="list-widget-social">
                                                         <ul>
@@ -216,14 +207,11 @@
                                             <h3>Tags: </h3>
                                         </div>
                                         <div class="list-single-tags tags-stylwrap">
-                                            <a href="#">시립대</a>
-                                            <a href="#">청량리</a>
-                                            <a href="#">회식</a>
-                                            <a href="#">뼈구이</a>
-                                            <a href="#">족발</a>
-                                            <a href="#">소주 안주</a>
-                                            <a href="#">술안주</a>
-                                            <a href="#">떡전교</a>
+                                            <a href="#">시험기간</a>
+                                            <a href="#">분위기갑</a>
+                                            <a href="#">썸남썸녀와</a>
+                                            <a href="#">카페</a>
+                                            <a href="#">칵테일</a>
 
                                         </div>
                                     </div>
