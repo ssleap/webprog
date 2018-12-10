@@ -125,40 +125,30 @@
                                         <!-- article end -->       
                                         <span class="section-separator"></span>
                                         <!-- list-single-main-item -->
-                                    <div class="list-single-main-item fl-wrap" id="sec4">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>Comments -  <span>  </span></h3>
-                                        
-                                            <!--reviews-comments-item end-->
-                                        </div>
-                                    </div>
+                                    
                                     <!-- list-single-main-item end -->
                                     <!-- list-single-main-item -->
-                                    <div class="list-single-main-item fl-wrap" id="sec5">
-                                        <div class="list-single-main-item-title fl-wrap">
-                                            <h3>댓     글</h3>
-                                        </div>
-                                        <!-- Add Review Box -->
-                                        
-                                        <div id="add-review" class="add-review-box">
-                                            <!-- Review Comment -->
-                                            <form action = "create_review.php" id="add-comment" class="add-comment custom-form">
-                                                <fieldset>
-                                                    <div class="row">
-                                                        <div class="col-md-6">
-                                                            <label><i class="fa fa-user-o"></i></label>
-                                                            <input type="text" placeholder="닉네임" value="" />
-                                                        </div>
-                                                        
-                                                    </div>
-                                                    <textarea cols="40" rows="3" placeholder="리뷰를 적어주세요 :"></textarea>
-                                                </fieldset>
-                                                <button class="btn  big-btn  color-bg flat-btn">확   인 <i class="fa fa-paper-plane-o" aria-hidden="true"></i></button>
-                                            </form>
-                                        </div>
-                                       
-                                        <!-- Add Review Box / End -->
-                                    </div>
+                                    <div id="disqus_thread"></div>
+<script>
+
+                                        /**
+                                        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+                                        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+                                        /*
+                                        var disqus_config = function () {
+                                        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+                                        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+                                        };
+                                        */
+                                        (function() { // DON'T EDIT BELOW THIS LINE
+                                        var d = document, s = d.createElement('script');
+                                        s.src = 'https://uosfood.disqus.com/embed.js';
+                                        s.setAttribute('data-timestamp', +new Date());
+                                        (d.head || d.body).appendChild(s);
+                                        })();
+                                        </script>
+                                        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                                                    
                                     <!-- list-single-main-item end -->                              
                                     </div>
                                 </div>
