@@ -25,9 +25,9 @@ class naverCrawler:
         self.client = MongoClient("localhost")
         db = self.client.get_database('naver')
         try:
-            naver = db.create_collection("naverCrawled")
+            naver = db.create_collection("naverCrawled1")
         except:
-            naver = db.get_collection("naverCrawled")
+            naver = db.get_collection("naverCrawled1")
         #places = []
         patLng = re.compile(r'12[5-7][.][0-9]+')
         patLat = re.compile(r'3[6-8][.][0-9]+')
